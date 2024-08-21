@@ -1,0 +1,5 @@
+Fayzullo Bakhtiyorov 001197696 - 100% [Worked on Code for Server Implementation like Timestamp feature on server side, JUnit Testing]
+Dimo Dimchov 001225957 - 100% [Worked on Report and Testing]
+John Lawrence Mendoza 001235285 - 100% [Worked on Report and Testing]
+Ma Johann Aniya Lugue 001153289 - 100% [Worked on Report, Design Patterns and Testing]
+Pedro Pereira 001238412 - 100% [Worked on Code for Client & Server Implementation]
